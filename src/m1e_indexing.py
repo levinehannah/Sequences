@@ -5,7 +5,7 @@ This module demonstrates INDEXING into a SEQUENCE:
   -- What goes wrong if the index is out of range
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         and their colleagues.
+         and their colleagues aka your girl Hannah Levine.
 """
 # ----------------------------------------------------------------------
 # Students: Read and run this program.  There is nothing else

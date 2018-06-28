@@ -636,6 +636,13 @@ def run_test_sum_first_n():
     print('Test 10 expected:', expected)
     print('       actual:  ', actual)
 
+    # Test 10
+    expected = 102
+    actual = sum_first_n([48, -10, 50, 5, 9], 5)
+    print()
+    print('Test 10 expected:', expected)
+    print('       actual:  ', actual)
+
 
 def sum_first_n(numbers, n):
     """
